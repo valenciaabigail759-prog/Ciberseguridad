@@ -1,2 +1,2 @@
-# Ciberseguridad
-Practicas de redes 
+# Aprendiento ciberseguridad
+Documentando herramientas, comandos y practicas 
